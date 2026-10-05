@@ -1,2 +1,2 @@
-# data-structure
+#push pop operations on a stack
 lab programs
